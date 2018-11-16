@@ -4,7 +4,7 @@ I saw that Think Geek was taking pre-orders for a  [Liberty Prime](https://www.t
 
 - "Patriotism Subroutine, engaged"
 - "Democracy is non-negotiable"
-- "ObstructionsL sand, gravel, and communism"
+- "Obstructions: sand, gravel, and communism"
 - "Death is a preferrable alternative to communism"
 
 There is a [youtube channel](https://www.youtube.com/watch?v=GzXAbm55DOE) with a lot of them. I pulled the audio out using this [site](https://www.onlinevideoconverter.com/mp3-converter) and then split the nin minute long file into 58 smalled clips using [Audacity](https://www.audacityteam.org/) and `Analyze` > `Silence finder`. Then `Export` > `Export multiple`.
